@@ -1,0 +1,22 @@
+# NeuralHive Dependencies
+# Install with: pip install -r requirements.txt
+
+# Core
+psutil>=5.9.0
+requests>=2.31.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# CLI
+click>=8.1.0
+rich>=13.0.0
+
+# Model inference (CPU optimized)
+llama-cpp-python>=0.2.0
+
+# Model hub
+huggingface-hub>=0.20.0
+
+# Dev / testing
+pytest>=7.4.0
+pytest-cov>=4.1.0

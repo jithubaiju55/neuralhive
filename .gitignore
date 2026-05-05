@@ -1,0 +1,49 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+*.egg
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+venv/
+env/
+.env/
+.venv/
+
+# Models (these are huge — never commit)
+*.gguf
+*.bin
+*.safetensors
+neuralhive_models/
+
+# Config (contains user paths)
+.neuralhive/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Generated project output
+neuralhive_*/
+
+# Logs
+*.log
+logs/
+
+# Temp
+tmp/
+temp/
+.tmp/

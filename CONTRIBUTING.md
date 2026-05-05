@@ -100,6 +100,3 @@ Open a GitHub Issue with:
 Open a GitHub Discussion. No question is too basic.
 
 ---
-
-_NeuralHive exists because someone believed indie developers deserve powerful tools._  
-_Your contribution keeps that belief alive._
